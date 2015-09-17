@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/amitdesai03/cors-proxy.svg?branch=master)](https://travis-ci.org/amitdesai03/cors-proxy)
+
 # cors-proxy
 Java Jersey based CORS proxy to by-pass javascript cross-domain request restrictions
 
