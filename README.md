@@ -17,5 +17,5 @@ http://localhost:8080/cors-proxy/request/forward/http//www.ebay.com
 http://localhost:8080/cors-proxy/request/forward/http//www.amazon.com
 
 
-In you javascript, prefix all your url with 'http://<cors-server-host>:8080/cors-proxy/request/forward/'.
+*In you javascript, prefix all your url with* 'http://<cors-server-host>:8080/cors-proxy/request/forward/'.
 This will bypass all CORS restrictions in browser.
