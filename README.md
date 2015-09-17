@@ -15,8 +15,8 @@ This web proxy will by pass those restrictions.
 
 After you deploy this application locally, you can use below pattern to access from javascript:
 
-http://localhost:8080/cors-proxy/request/forward/http//www.ebay.com
-http://localhost:8080/cors-proxy/request/forward/http//www.amazon.com
+- http://localhost:8080/cors-proxy/request/forward/http//www.ebay.com
+- http://localhost:8080/cors-proxy/request/forward/http//www.amazon.com
 
 
 **In you javascript, prefix all your url with** 'http://<cors-server-host>:8080/cors-proxy/request/forward/'.
